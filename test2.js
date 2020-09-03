@@ -6,3 +6,8 @@ function ftest(test) {
 function johnnie(){
 
 }
+
+//
+function johnnie2(){
+
+}
