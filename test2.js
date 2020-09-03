@@ -11,5 +11,5 @@ function johnnie() {
 
 //
 function johnnie2(){
-
+   let j = 0;
 }
