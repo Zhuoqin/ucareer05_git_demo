@@ -1,0 +1,3 @@
+function ftest(test) {
+    // sfdajkfjdas
+}
